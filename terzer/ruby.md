@@ -1,0 +1,3 @@
+`ruby -v`
+
+ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]
